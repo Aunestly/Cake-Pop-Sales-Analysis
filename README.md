@@ -1,2 +1,2 @@
 # Cake-Pop-Sales-Analysis
-![Uploading OIG4.UwApgVkwh.jpg…]()
+![Alt text](images/OIG4.UwApgVkwh.jpg)
