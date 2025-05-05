@@ -2,15 +2,15 @@
 
 # SQL Data Analysis Project
 
-This project analyzes A local cake pop business and their sales transaction data. The data and business analysis performed during this project explores various ways on how the local cake pop business can increase online product sales/custom sales? Data visualizations were created using SQL through BigQuery and Data Visualization through Tableau Public. 
+This project analyzes A local cake pop business and their sales transaction data. The data and business analysis performed during this project explores various ways on how the local cake pop business can increase product sales/custom sales? Data visualizations were created using SQL through BigQuery and Data Visualization through Tableau Public. 
 
 ## Table of Contents
-+[Requirements](#requirements)
-+[Background](#background)
-+[Findings](#findings)
-+[How to Use](#how-to-use)
-+[Acknowledgement](#acknowledgment)
-+[Contribution](#contribution)
++ [Requirements](#requirements)
++ [Background](#background)
++ [Findings](#findings)
++ [How to Use](#how-to-use)
++ [Acknowledgement](#acknowledgment)
++ [Contribution](#contribution)
 
 ## Requirements
 To run queries in this project you will need the following for your machine.
