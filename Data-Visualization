@@ -1,5 +1,4 @@
-![netsalesgraph](Cake-Pop-Sales-Analysis/images/Dashboard1.png)
-
+//--Select total net sales by days of the week--//
 
 SELECT
   day,
