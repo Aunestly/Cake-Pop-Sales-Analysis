@@ -36,5 +36,5 @@ The source data used in this project was generated from the local cake pops Squa
 
 ## Data Visualization
 By clicking [here](https://github.com/Aunestly/Cake-Pop-Sales-Analysis/blob/main/Data-Visualization) you will find the SQL queries for the visualizations used to produce results found in the graph.
-![data viz](Cake-Pop-Sales-Analysis/images/Dashboard1.png)
+![data viz](https://github.com/Aunestly/Cake-Pop-Sales-Analysis/blob/main/images/Dashboard1.png)
 
