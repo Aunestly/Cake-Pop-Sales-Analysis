@@ -35,5 +35,6 @@ The local cake pop business started as an independent in-house bakery 2018. In O
 The source data used in this project was generated from the local cake pops Square app monthly sales data reports. The data relevant data was extracted, transfered and loaded into a new dataset. Weather data sourced from the National Weathers Service Reports and [Localconditions.com](https://www.localconditions.com/weather-kenwood-ohio/oh334/past.php).
 
 ## Data Visualization
-By clicking [here](https://github.com/Aunestly/Cake-Pop-Sales-Analysis/blob/main/Data-Visualization) you will find the Data Visualizations and SQL code used to produce results found in the graph.
+By clicking [here](https://github.com/Aunestly/Cake-Pop-Sales-Analysis/blob/main/Data-Visualization) you will find the SQL queries for the visualizations used to produce results found in the graph.
+![data viz](Cake-Pop-Sales-Analysis/images/Dashboard1.png)
 
