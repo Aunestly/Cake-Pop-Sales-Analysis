@@ -14,7 +14,6 @@ This project analyzes A local cake pop business and their sales transaction data
 To run queries in this project you will need the following for your machine.
 
 -BigQuery - Google
-
 -Data Visualization -Tableau Public
 
 ## Background
@@ -41,7 +40,7 @@ SQL Queries: [here.](https://github.com/Aunestly/Cake-Pop-Sales-Analysis/blob/ma
 ![data viz](https://github.com/Aunestly/Cake-Pop-Sales-Analysis/blob/main/images/Dashboard2.png)
 dataset: https://www.kaggle.com/datasets/aunestly/tempmainflavors?select=mainFlavors.csv
 
-![data viz]()
+![data viz](https://github.com/Aunestly/Cake-Pop-Sales-Analysis/blob/main/images/zerosales.png)
 
 ## Acknowledgement
 The source data used in this project was generated from the local cake pops Square app monthly sales data reports. The relevant data was extracted, transfered and loaded into a new dataset. Weather data sourced from the National Weathers Service Reports and [Localconditions.com](https://www.localconditions.com/weather-kenwood-ohio/oh334/past.php).
