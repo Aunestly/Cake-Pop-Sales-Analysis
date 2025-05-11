@@ -35,7 +35,7 @@ The local cake pop business started as an independent in-house bakery 2018. In O
 
 ## Data Visualizations: 
 
-SQL Queries: [here](https://github.com/Aunestly/Cake-Pop-Sales-Analysis/blob/main/Data-Visualization) for data visualizations below.
+SQL Queries: [here](https://github.com/Aunestly/Cake-Pop-Sales-Analysis/blob/main/CPSAqueries) for data visualizations below.
 ![data viz](https://github.com/Aunestly/Cake-Pop-Sales-Analysis/blob/main/images/Dashboard1.png)
 
 ![data viz](https://github.com/Aunestly/Cake-Pop-Sales-Analysis/blob/main/images/Dashboard2.png)
