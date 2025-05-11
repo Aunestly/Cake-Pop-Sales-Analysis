@@ -38,7 +38,7 @@ The local cake pop business started as an independent in-house bakery 2018. In O
 By clicking [here](https://github.com/Aunestly/Cake-Pop-Sales-Analysis/blob/main/Data-Visualization) you will find the SQL queries for the visualizations used to produce results found in the graph.
 ![data viz](https://github.com/Aunestly/Cake-Pop-Sales-Analysis/blob/main/images/Dashboard1.png)
 
-![data viz]()
+![data viz](https://github.com/Aunestly/Cake-Pop-Sales-Analysis/blob/main/images/Dashboard2.png)
 dataset: https://www.kaggle.com/datasets/aunestly/tempmainflavors?select=mainFlavors.csv
 
 ## Acknowledgement
