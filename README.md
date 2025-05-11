@@ -39,7 +39,7 @@ SQL Queries: [here](https://github.com/Aunestly/Cake-Pop-Sales-Analysis/blob/mai
 ![data viz](https://github.com/Aunestly/Cake-Pop-Sales-Analysis/blob/main/images/Dashboard1.png)
 
 ![data viz](https://github.com/Aunestly/Cake-Pop-Sales-Analysis/blob/main/images/Dashboard2.png)
-temp dataset: [here](https://www.kaggle.com/datasets/aunestly/tempmainflavors?select=mainFlavors.csv)
+**Temp dataset:** [here](https://www.kaggle.com/datasets/aunestly/tempmainflavors?select=mainFlavors.csv)
 
 ![data viz](https://github.com/Aunestly/Cake-Pop-Sales-Analysis/blob/main/images/zerosales.png)
 
