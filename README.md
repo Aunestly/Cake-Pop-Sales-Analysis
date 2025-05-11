@@ -14,6 +14,7 @@ This project analyzes A local cake pop business and their sales transaction data
 To run queries in this project you will need the following for your machine.
 
 -BigQuery - Google
+
 -Data Visualization -Tableau Public
 
 ## Background
@@ -34,11 +35,11 @@ The local cake pop business started as an independent in-house bakery 2018. In O
 
 ## Data Visualizations: 
 
-SQL Queries: [here.](https://github.com/Aunestly/Cake-Pop-Sales-Analysis/blob/main/Data-Visualization) for visualizations below.
+SQL Queries: [here](https://github.com/Aunestly/Cake-Pop-Sales-Analysis/blob/main/Data-Visualization) for data visualizations below.
 ![data viz](https://github.com/Aunestly/Cake-Pop-Sales-Analysis/blob/main/images/Dashboard1.png)
 
 ![data viz](https://github.com/Aunestly/Cake-Pop-Sales-Analysis/blob/main/images/Dashboard2.png)
-dataset: https://www.kaggle.com/datasets/aunestly/tempmainflavors?select=mainFlavors.csv
+temp dataset: [here](https://www.kaggle.com/datasets/aunestly/tempmainflavors?select=mainFlavors.csv)
 
 ![data viz](https://github.com/Aunestly/Cake-Pop-Sales-Analysis/blob/main/images/zerosales.png)
 
