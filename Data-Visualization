@@ -48,3 +48,12 @@ CASE
   WHEN mainFlavors.day = 'Saturday' THEN 7
   ELSE 8
 END;
+
+//--Select instances of 0 sales count by flavor--//
+
+SELECT
+  mainFlavors.flavor,
+  COUNT(`IF`(mainFlavors.count = '0' OR mainFlavors.count IS NULL, 1, NULL)) AS zero_count
+FROM
+  `eng-hash-367405.fcpanalysis.mainFlavors` AS mainFlavors
+GROUP BY 1;
