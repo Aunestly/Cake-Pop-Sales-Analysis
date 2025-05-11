@@ -29,10 +29,13 @@ The local cake pop business started as an independent in-house bakery 2018. In O
 7. Other patterns in data included, sales on Lemon and Strawberry CPs were found to be the least popular. While Chocolate and Funfetti CPs were found to be the most profitable providing 50% of Net Sales Monthly. Bar graphs were produced from salesTrans data using Tableau public and BigQuery to illustrate this.
 8. The following documents were delivered to stakeholders after the Data visualization presentation with detailed results of the analysis: Meeting Agendas,  Data Document, Activity Log, Marketing Analysis and Campaigns, Email Marketing Information Document, Scope of Work, and copies of Data Visualizations.
 
-## Acknowledgement
-The source data used in this project was generated from the local cake pops Square app monthly sales data reports. The data relevant data was extracted, transfered and loaded into a new dataset. Weather data sourced from the National Weathers Service Reports and [Localconditions.com](https://www.localconditions.com/weather-kenwood-ohio/oh334/past.php).
+## Data 
 
-## Data Visualization
+## Data Visualizations: 
+
 By clicking [here](https://github.com/Aunestly/Cake-Pop-Sales-Analysis/blob/main/Data-Visualization) you will find the SQL queries for the visualizations used to produce results found in the graph.
 ![data viz](https://github.com/Aunestly/Cake-Pop-Sales-Analysis/blob/main/images/Dashboard1.png)
+
+## Acknowledgement
+The source data used in this project was generated from the local cake pops Square app monthly sales data reports. The data relevant data was extracted, transfered and loaded into a new dataset. Weather data sourced from the National Weathers Service Reports and [Localconditions.com](https://www.localconditions.com/weather-kenwood-ohio/oh334/past.php).
 
